@@ -1,2 +1,2 @@
-# codeplayer
-codepen clone
+# CodeN'Play
+A simple clone of codepen.io
