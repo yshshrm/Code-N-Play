@@ -1,2 +1,2 @@
 # CodeN'Play
-A simple clone of codepen.io
+A clone of [jsbin.com](http://www.jsbin.com)
